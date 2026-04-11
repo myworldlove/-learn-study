@@ -9,3 +9,4 @@ moonwell,属于base生态项目————Bringing the world onchain with simpl
 floe体验？supply及borrow。已交互，用最小的5U感受
 floe已经borrow 5U,预计持有一周，
 5U额度已经没有了，剩下的1000U，2000U风险较大，慎重
+整体行情偏弱
