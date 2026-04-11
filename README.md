@@ -7,3 +7,4 @@ moonwell,属于base生态项目————Bringing the world onchain with simpl
     寻找其他生态项目，官方的推荐？
 查找官方推荐项目
 floe体验？supply及borrow。已交互，用最小的5U感受
+floe已经borrow 5U,预计持有一周，
