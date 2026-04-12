@@ -12,4 +12,4 @@ floe已经borrow 5U,预计持有一周，
 整体行情偏弱，floe居然还是没有5U的borrow 额度；测试一下lend?
 lend是借出去，总觉得不舒服
 借？
-借一点尝试一下，floe是base新兴项目
+借一点尝试一下，floe是base新兴项目,流程有点搞混
